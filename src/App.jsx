@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div style={{ backgroundColor: '#09090F',minHeight: 'auto',width:'auto', padding: '0',margin:'0',boxSizing:'border-box'}}>
-      <div style={{padding:"150px",marginLeft:'150px'}} >
+      <div style={{padding:"10vw",marginLeft:'10vw'}} >
         <h1 style={{color:"#FFFFFF",fontSize:'35px',fontFamily: 'Arial, Helvetica, sans-serif'}}>Data Processing Agreement</h1>
         <p className='para'>Date: September 27, 2023<br/><br/>
         This Data Processing Agreement (the "Agreement") is entered into by and between:      
