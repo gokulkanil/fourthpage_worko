@@ -19,8 +19,8 @@ function App() {
         <p className='para'>(hereinafter collectively referred to as the "Parties").</p>
         <h2 className='title'>Background</h2>
         <ol className='para'>
-        <li>The Controller is a user of Taskify, a task management platform, and processes personal data of individuals ("Data Subjects") within the platform.</li>
-        <li>The Processor provides the Taskify platform to the Controller and processes personal data on behalf of the Controller as part of its services.</li>
+        <li>The Controller is a user of Worko, a task management platform, and processes personal data of individuals ("Data Subjects") within the platform.</li>
+        <li>The Processor provides the Worko platform to the Controller and processes personal data on behalf of the Controller as part of its services.</li>
         <li>The Parties desire to ensure that personal data is processed in compliance with applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).</li>
         </ol>
         <h2 className='title'>Definitions</h2>
