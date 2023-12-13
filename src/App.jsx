@@ -9,18 +9,16 @@ function App() {
   return (
     <div style={{ backgroundColor: '#09090F',minHeight: 'auto',width:'auto', padding: '0',margin:'0',boxSizing:'border-box'}}>
       <div style={{padding:"10vw",marginLeft:'10vw'}} >
-        <h1 style={{color:"#FFFFFF",fontSize:'35px',fontFamily: 'Arial, Helvetica, sans-serif'}}>Data Processing Agreement</h1>
+        <h1 style={{color:"#FFFFFF",fontSize:'35px',fontFamily: 'Inter, system-ui, Avenir, Helvetica, Arial, sans-serif'}}>Data Processing Agreement</h1>
         <p className='para'>Date: September 27, 2023<br/><br/>
-        This Data Processing Agreement (the "Agreement") is entered into by and between:      
-        Your Company Name, a company registered under the laws of Your Country, having its registered office at Your Address ("Processor")</p>
-        <br/>
-        <p className='para'>Customer Name, a company registered under the laws of Customer's Country, having its registered office at Customer's Address ("Controller").</p>
-        <br/>
+        This Data Processing Agreement (the "Agreement") is entered into by and between:<div/>     
+        <b>Your Company Name</b>, a company registered under the laws of <b>Your Country</b>, having its registered office at <b>Your Address</b> ("Processor")</p>
+        <p className='para'><b>Customer Name</b>, a company registered under the laws of <b>Customer's Country</b>, having its registered office at <b>Customer's Address</b> ("Controller").</p>
         <p className='para'>(hereinafter collectively referred to as the "Parties").</p>
         <h2 className='title'>Background</h2>
         <ol className='para'>
-        <li>The Controller is a user of Worko, a task management platform, and processes personal data of individuals ("Data Subjects") within the platform.</li>
-        <li>The Processor provides the Worko platform to the Controller and processes personal data on behalf of the Controller as part of its services.</li>
+        <li><b>The Controller</b> is a user of Worko, a task management platform, and processes personal data of individuals ("Data Subjects") within the platform.</li>
+        <li><b>The Processor</b> provides the Worko platform to the Controller and processes personal data on behalf of the Controller as part of its services.</li>
         <li>The Parties desire to ensure that personal data is processed in compliance with applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).</li>
         </ol>
         <h2 className='title'>Definitions</h2>
