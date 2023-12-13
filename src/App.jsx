@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div style={{ backgroundColor: '#09090F',minHeight: '100vh',width:'100vw', padding: '0',margin:'0',boxSizing:'border-box'}}>
+    <div style={{ backgroundColor: '#09090F',minHeight: 'auto',width:'auto', padding: '0',margin:'0',boxSizing:'border-box'}}>
       <div style={{padding:"150px",marginLeft:'150px'}} >
         <h1 style={{color:"#FFFFFF",fontSize:'35px',fontFamily: 'Arial, Helvetica, sans-serif'}}>Data Processing Agreement</h1>
         <p className='para'>Date: September 27, 2023<br/><br/>
